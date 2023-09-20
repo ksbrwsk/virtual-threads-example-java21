@@ -4,7 +4,7 @@
 
 **Prerequisites:**
 
-* [Java 20 with --enable-preview / 21](https://openjdk.net/)
+* [Java 21](https://openjdk.net/)
 * [Apache Maven](https:http://maven.apache.org/)
 
 #### How to build and run
